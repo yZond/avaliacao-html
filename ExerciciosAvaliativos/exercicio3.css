@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(87, 31, 9, 0.76);
+    text-align: center;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    background-color: rgb(95, 48, 17);
+    width: 99%;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+
